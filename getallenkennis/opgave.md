@@ -8,3 +8,5 @@ p2: 1 110 ==> 0		p2=1
 p4: 0 110 ==> 0		p4=0
 
 (011)2 = (3)10
+
+Uitkomst: De fout zit in bit 3
